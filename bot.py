@@ -30,7 +30,7 @@ from pypdf import PdfReader
 
 TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 
-LLAMA_URL = "http://127.0.0.1:8080/v1/chat/completions"
+LLAMA_URL = "http://crispy-space-umbrella-4r9gpr9w6qrhq6vx-8080.app.github.dev/"
 
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 POLLINATIONS_API_KEY = os.environ.get("POLLINATIONS_API_KEY")
